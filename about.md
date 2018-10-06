@@ -6,8 +6,8 @@ title: About Long Haul
 <div class="post">
 	<h1 class="pageTitle">오픈소스의 역사</h1>
 	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt="">
-	<p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
-	<p>오픈소스는 무구한 역사를 달려왔습니다. 1980년 부터 현재인 2018년 </p>
+	<p class="intro">오픈소스는 GPL기반의 프로그래밍 협업 개념입니다. <a href="http://jekyllrb.com">Jekyll</a> 언제나 어디서나 발전해왔고 앞으로도 그럴것입니다.</p>
+	<p>오픈소스는 무구한 역사를 달려왔습니다. 1980년 부터 현재인 2018년까지. </p>
 	<h2>Features</h2>
 	<ul>
 		<li>Built with SASS + GULP + BROWSERSYNC + AUTOPREFIXER</li>
