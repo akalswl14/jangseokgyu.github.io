@@ -6,8 +6,8 @@ title: Contact Long Haul
 <div id="contact">
   <h1 class="pageTitle">Contact Me</h1>
   <div class="contactContent">
-    <p class="intro">This is an example Contact page. If you want to make changes then do so in the <code>contact.html</code> file.</p>
-    <p>The form is provided by <a href="http://formspree.io/">Formspree.</a> Follow the directions on their site to set up the form for use.</p>
+    <p class="intro">무언가 잘못되거나 궁금한 점이 있습니까? 여기로 물어볼 수 있습니다.  <code>contact.html</code> file.</p>
+    <p>이 형식은 <a href="http://formspree.io/">Formspree.</a> 여기서 다운로드 받을 수 있습니다..</p>
     <p>질문이 있으면 이쪽으로 메일을 보내주세요 <a href="mailto:jsk053@hanyang.ac.kr"></a> 혹은 이쪽으로 pull request를 부탁드립니다. <a href="https://github.com/jangseokgyu">GitHub</a>.</p>
   </div>
   <form action="http://formspree.io/your@mail.com" method="POST">
