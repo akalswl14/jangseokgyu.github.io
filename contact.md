@@ -8,7 +8,7 @@ title: Contact Long Haul
   <div class="contactContent">
     <p class="intro">This is an example Contact page. If you want to make changes then do so in the <code>contact.html</code> file.</p>
     <p>The form is provided by <a href="http://formspree.io/">Formspree.</a> Follow the directions on their site to set up the form for use.</p>
-    <p>If you have questions about the theme feel free to <a href="mailto:brimaidesigns@gmail.com">email me</a> or create an issue on <a href="https://github.com/brianmaierjr/long-haul">GitHub</a>. Enjoy!</p>
+    <p>질문이 있으면 이쪽으로 메일을 보내주세요 <a href="mailto:jsk053@hanyang.ac.kr"></a> 혹은 이쪽으로 pull request를 부탁드립니다. <a href="https://github.com/jangseokgyu">GitHub</a>.</p>
   </div>
   <form action="http://formspree.io/your@mail.com" method="POST">
     <label for="name">Name</label>
