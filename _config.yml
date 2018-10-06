@@ -1,7 +1,7 @@
-title: Long Haul
+title: OPEN SOURCE
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
-url: http://brianmaierjr.github.com/long-haul
+url: http://github.com/jangseokgyu
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -12,17 +12,17 @@ gems: [jekyll-paginate]
 paginate: 5
 
 navigation:
- - title: Home
+ - title: 개요
    url: /index.html
- - title: About
+ - title: 역사
    url: /about
- - title: Contact
+ - title: 메일
    url: /contact
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+   github: jsk053
+   twitter: jsk053
+   facebook: jsk053
+   email: jsk053@hanyang.ac.kr
 
 google_analytics: "UA-58263416-1"
