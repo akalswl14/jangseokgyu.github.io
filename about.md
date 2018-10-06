@@ -4,10 +4,10 @@ title: About Long Haul
 ---
 
 <div class="post">
-	<h1 class="pageTitle">About Long Haul</h1>
+	<h1 class="pageTitle">오픈소스의 역사</h1>
 	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt="">
 	<p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
-	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p>
+	<p>오픈소스는 무구한 역사를 달려왔습니다. 1980년 부터 현재인 2018년 </p>
 	<h2>Features</h2>
 	<ul>
 		<li>Built with SASS + GULP + BROWSERSYNC + AUTOPREFIXER</li>
