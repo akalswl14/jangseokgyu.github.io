@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Example Post Formatting"
+title:  "오픈소스의 사상적 배경"
 date:   2014-12-15
-description: 잘되길 바랍니다..
+description: 오픈소스의 사상적 배경에대해 알아보자. 오픈소스의 역사는 압제에 대한 저항과 맥을 같이한다.
 ---
 
 <p class="intro"><span class="dropcap">C</span>urabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur.</p>
