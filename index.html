@@ -8,6 +8,7 @@ title: 오픈소스
   <ul class="posts noList">
     {% for post in paginator.posts %}
       <li>
+        <p> 이페이지에서는 오픈소스의 역사를 알아보자.</p>
         <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
         <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
         <p>{% if post.description %}{{ post.description }}{% else %}{{ post.excerpt | strip_html }}{% endif %}</p>
