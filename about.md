@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Long Haul
+title: About history of opensource
 ---
 
 <div class="post">
