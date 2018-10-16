@@ -2,6 +2,9 @@
 layout: post
 ---
 --------------------------
+<div class="post">
+  <h1 class="pageTitle">오픈소스의 사례들</h1>
+		<ul>
 
 시장규모 | 2006년 | 2007년 | 2008년 | 2009년 | 2010년 | 2011년
 -------|-------|---------|--------|-------|---------|-----------
@@ -182,3 +185,6 @@ layout: post
 4.Openbravo ERP : 종합적인 웹 ERP 솔루션 http://www.Open-bravo.com
 5.J Stock : 많이 쓰이는 무료 주식시장 소프트웨어 http://jstock.source-forge.net
 <blockquote>출처 : [네이버](https://naver.com)</blockquote>
+
+</ul>
+</div>
