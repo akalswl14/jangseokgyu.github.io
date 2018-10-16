@@ -4,7 +4,7 @@ title: 오픈소스의 정의
 ---
 
 <div class="post">
-	<h1 class="pageTitle">오픈소스의 소개</h1>
+	<h1 class="pageTitle">오픈소스의 정의</h1>
 	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt="">
 	<p class="intro">오픈소스는 GPL기반의 프로그래밍 협업 개념입니다. <a href="http://jekyllrb.com">Jekyll</a> 언제나 어디서나 발전해왔고 앞으로도 그럴것입니다.</p>
 	<p>이 페이지에서는 오픈소스의 개념에 대해 알아봅시다.</p>
