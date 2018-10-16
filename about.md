@@ -24,6 +24,6 @@ title: 오픈소스의 정의
   		<li>다른 소프트웨어 제품을 사용제한하는 라이센스의 금지 : 오픈소스와 같이 제공되는 소프트웨어가 있을 때 이 소프트웨어를 제한해서는 안된다. 요컨데 라이센스는 오픈소스 그자체에만 해당한다. 다른 것에까지 전염시킬 수 있는 라이센스는 허가하지 않는다.</li>
 
 			<li>아래 사이트에서 오픈소스 정의에 대한 원본을 볼 수 있습니다.</li>
-			<li><a href="https://opensource.org/osd"></li>
+			<li><a href="https://opensource.org/osd">opensource definition</a></li>
   	</ul>
 </div>
