@@ -13,4 +13,4 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 [jekyll-gh]: https://github.com/mojombo/jekyll
 [jekyll]:    http://jekyllrb.com
 
-<blockquote>출처 : <https://naver.com></blockquote>
+<blockquote>출처 : [네이버](https://naver.com)</blockquote>
