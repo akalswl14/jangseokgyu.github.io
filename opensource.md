@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 오픈소스의 정의
+title: 오픈소스의 사례들
 ---
 
 <div class="post">

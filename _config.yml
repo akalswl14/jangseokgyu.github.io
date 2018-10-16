@@ -12,10 +12,16 @@ gems: [jekyll-paginate]
 paginate: 5
 
 navigation:
- - title: 개요
-   url: /index.html
- - title: 역사
+ - title: 정의
    url: /about
+ - title: 개념
+   url: /concept
+ - title: 역사
+   url: /index.html
+ - title: 개발방법론
+   url: /develop
+ - title: 오픈소스 사례
+   url: /opensource
  - title: 메일
    url: /contact
 
